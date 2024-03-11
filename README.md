@@ -1,4 +1,4 @@
-# Kotlin Design Patterns Examples
+# 🚧 Kotlin Design Patterns Examples [WIP] 🚧
 
 Welcome to the Kotlin Design Patterns Examples repository! This project aims to provide clear and concise examples of how to implement various design patterns in Kotlin. Whether you're a seasoned developer looking to refresh your design pattern knowledge or a newcomer eager to learn, you'll find this repository useful.
 
